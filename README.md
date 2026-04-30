@@ -1,7 +1,24 @@
 <h1 align="center">Hi 👋, I'm Abderrahman</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">🌐 Connect with me</h3>
 
-<p align="left"> <a href="https://twitter.com/etasu42396" target="blank"><img src="https://img.shields.io/twitter/follow/etasu42396?logo=twitter&style=for-the-badge" alt="etasu42396" /></a> </p>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" style="margin: 10px;" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin: 10px;" />
+  </a>
+  
+  <a href="https://www.instagram.com/YOUR_USERNAME/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" style="margin: 10px;" />
+  </a>
+  
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="45" style="margin: 10px;" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **Database,SQL server**
 
